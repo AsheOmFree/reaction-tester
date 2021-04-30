@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background-image: url("pexels-nathalie-de-boever-1398049\ \(1\).jpg");
+
+  color: whitesmoke;
+}
+
+#shape {
+  width: 200;
+
+  height: 200;
+
+  background-color: red;
+
+  display: none;
+
+  position: relative;
+}
+
+.bold {
+  font-weight: bold;
+}
